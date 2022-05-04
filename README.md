@@ -17,3 +17,12 @@
  - Implementar las fórmulas en JS.
  - Crear funciones
  - Integrar JS con HTML.
+
+  ## Promedio, moda y mediana
+
+*Pasos:*
+
+ - Definir las fórmulas.
+ - Implementar las fórmulas en JS.
+ - Crear funciones
+ - Integrar JS con HTML.
